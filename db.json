@@ -1,24 +1,12 @@
 {
   "books": [
     {
-      "title": "Harry Potter",
+      "title": "Harry Potter and the Order of thhe pheonix",
       "id": 2
     },
     {
       "title": "A very good book!",
       "id": 3
-    },
-    {
-      "title": "Vieni.",
-      "id": 4
-    },
-    {
-      "title": "Braskes",
-      "id": 5
-    },
-    {
-      "title": "Auto",
-      "id": 6
     }
   ]
 }
