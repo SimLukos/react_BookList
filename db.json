@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter",
+      "id": 2
+    },
+    {
+      "title": "A very good book!",
+      "id": 3
+    },
+    {
+      "title": "Vieni.",
+      "id": 4
+    },
+    {
+      "title": "Braskes",
+      "id": 5
+    },
+    {
+      "title": "Auto",
+      "id": 6
+    }
+  ]
+}
